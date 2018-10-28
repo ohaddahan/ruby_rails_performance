@@ -1,5 +1,16 @@
 # ruby_rails_performance
 
+**Native JSON generation from PostgreSQL:** https://gitlab.com/nativeson/nativeson
+
+**Native pluck:** https://gitlab.com/nativepluck/nativepluck
+
+**Fasterer Ruby:** https://github.com/DamirSvrtan/fasterer
+
+**Rubucop Perf:** 
+https://rubocop.readthedocs.io/en/latest/cops_performance/
+https://github.com/rubocop-hq/rubocop-performance
+https://github.com/airbnb/ruby/blob/master/rubocop-airbnb/config/rubocop-performance.yml
+
 
 **Prevent DB calls from views :**	https://www.driftingruby.com/episodes/improving-partial-loading-performance
 
@@ -29,4 +40,5 @@
 
 **DB profiling :** https://github.com/MiniProfiler/rack-mini-profiler
 
+**Super efficient JSON using PostgreqSQL :** https://dockyard.com/blog/2014/05/27/avoid-rails-when-generating-json-responses-with-postgresql
 
